@@ -1,7 +1,6 @@
 
 
-# Hi there 👋 
+# Hello World! 👋 
 
-- :hammer_and_wrench: I’m currently working on a Verilog based project.
-- :books: I’m currently learning AWS...
+- :hammer_and_wrench: Intern at VizuaMatix
 
